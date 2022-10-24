@@ -1,0 +1,50 @@
+img{
+    display: block;
+    margin: auto;
+    border: 5px rgb(185, 114, 114) solid;
+    border-radius: 5px;
+    height: 400px;
+    width: 300px;
+}
+
+.sidebar{
+    background-color: #333;
+    color: #fff;
+    border: 5px rgb(185, 114, 114) solid;
+    border-radius: 5px;
+    padding: 20px 20px;
+    margin: 20px;
+    flex: 2.5;
+}
+
+.intro{
+    background-color: #333;
+    color: #fff;
+    border: 5px rgb(185, 114, 114) solid;
+    border-radius: 5px;
+    padding: 20px 20px;
+    margin: 20px;
+}
+
+.info{
+    display: flex;
+}
+
+.text{
+    flex: 7.5;
+}
+
+
+.experience{
+    background-color: #333;
+    color: #fff;
+    border: 5px rgb(185, 114, 114) solid;
+    border-radius: 5px;
+    padding: 20px 20px;
+    margin: 20px;
+}
+
+h1{
+    background-color: #333;
+    color: #fff;
+}

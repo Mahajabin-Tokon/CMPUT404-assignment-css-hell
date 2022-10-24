@@ -1,0 +1,43 @@
+body {
+    background-color: lightblue;
+  }
+
+img{
+    display: block;
+    margin: auto;
+    border: 5px rgb(185, 114, 114) solid;
+    border-radius: 10px;
+    height: 400px;
+    width: 300px;
+}
+
+
+
+.intro{
+    background-color: rgb(107, 18, 104);
+    color: green;
+    border: 5px rgb(40, 29, 199) solid;
+    border-radius: 1px;
+    padding: 20px 20px;
+    font-size: 20px;
+}
+
+.experience{
+    background-color: rgb(15, 74, 26);
+    color: yellow;
+    border: 15px rgb(215, 65, 65) solid;
+    border-radius: 5px;
+    padding: 20px 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.sidebar{
+    background-color: rgb(6, 0, 0);
+    color: red;
+    border: 5px rgb(155, 185, 114) solid;
+    border-radius: 5px;
+    padding: 20px 20px; 
+    font-style: italic;
+}
+
