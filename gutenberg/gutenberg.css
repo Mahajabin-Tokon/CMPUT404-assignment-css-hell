@@ -18,6 +18,6 @@ img{
 }
 
 img[alt] {
-    border: 1px solid orange;
+    border: 5px solid orange;
     font-weight: bold;
 }
